@@ -1,0 +1,493 @@
+﻿<!-- Hello Kitty Checkout Component - Place this inside your existing layout -->
+<style>
+    .hk-checkout-wrapper {
+        font-family: 'Nunito', sans-serif;
+        padding: 40px 20px;
+        position: relative;
+        background: linear-gradient(135deg, #fff0f5 0%, #ffe4ec 50%, #fff0f5 100%);
+    }
+
+        .hk-checkout-wrapper::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: radial-gradient(circle, #ffb6c1 1px, transparent 1px), radial-gradient(circle, #ffc0cb 1px, transparent 1px);
+            background-size: 40px 40px, 60px 60px;
+            background-position: 0 0, 20px 20px;
+            opacity: 0.3;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+    .hk-container {
+        max-width: 1000px;
+        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+    }
+
+    .hk-kitty-decoration {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .hk-kitty-face {
+        width: 80px;
+        height: 65px;
+        background: white;
+        border-radius: 50% 50% 45% 45%;
+        margin: 0 auto;
+        position: relative;
+        box-shadow: 0 4px 15px rgba(255, 105, 180, 0.2);
+        border: 2px solid #ffb6c1;
+    }
+
+        .hk-kitty-face::before,
+        .hk-kitty-face::after {
+            content: '';
+            position: absolute;
+            width: 25px;
+            height: 30px;
+            background: white;
+            border: 2px solid #ffb6c1;
+            top: -18px;
+        }
+
+        .hk-kitty-face::before {
+            left: 8px;
+            border-radius: 50% 50% 0 0;
+            transform: rotate(-10deg);
+        }
+
+        .hk-kitty-face::after {
+            right: 8px;
+            border-radius: 50% 50% 0 0;
+            transform: rotate(10deg);
+        }
+
+    .hk-kitty-eyes {
+        position: absolute;
+        top: 22px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        gap: 20px;
+    }
+
+    .hk-kitty-eye {
+        width: 8px;
+        height: 10px;
+        background: #333;
+        border-radius: 50%;
+    }
+
+    .hk-kitty-nose {
+        position: absolute;
+        top: 35px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 8px;
+        height: 6px;
+        background: #ffcc00;
+        border-radius: 50%;
+    }
+
+    .hk-kitty-whiskers {
+        position: absolute;
+        top: 32px;
+        width: 100%;
+    }
+
+    .hk-whisker {
+        position: absolute;
+        width: 20px;
+        height: 2px;
+        background: #333;
+    }
+
+    .hk-whisker-left-1 {
+        left: -8px;
+        top: 0;
+        transform: rotate(-10deg);
+    }
+
+    .hk-whisker-left-2 {
+        left: -10px;
+        top: 8px;
+        transform: rotate(0deg);
+    }
+
+    .hk-whisker-left-3 {
+        left: -8px;
+        top: 16px;
+        transform: rotate(10deg);
+    }
+
+    .hk-whisker-right-1 {
+        right: -8px;
+        top: 0;
+        transform: rotate(10deg);
+    }
+
+    .hk-whisker-right-2 {
+        right: -10px;
+        top: 8px;
+        transform: rotate(0deg);
+    }
+
+    .hk-whisker-right-3 {
+        right: -8px;
+        top: 16px;
+        transform: rotate(-10deg);
+    }
+
+    .hk-bow {
+        position: absolute;
+        top: -8px;
+        right: -5px;
+        width: 30px;
+        height: 20px;
+    }
+
+        .hk-bow::before,
+        .hk-bow::after {
+            content: '';
+            position: absolute;
+            width: 14px;
+            height: 12px;
+            background: #ff4d6d;
+            border-radius: 50% 50% 50% 50%;
+            top: 4px;
+        }
+
+        .hk-bow::before {
+            left: 0;
+            transform: rotate(-20deg);
+        }
+
+        .hk-bow::after {
+            right: 0;
+            transform: rotate(20deg);
+        }
+
+    .hk-bow-center {
+        position: absolute;
+        width: 8px;
+        height: 8px;
+        background: #ff4d6d;
+        border-radius: 50%;
+        top: 6px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1;
+    }
+
+    .hk-tabs {
+        display: flex;
+        justify-content: center;
+        gap: 0;
+        margin-bottom: 40px;
+    }
+
+    .hk-tab {
+        padding: 14px 40px;
+        font-size: 16px;
+        font-weight: 600;
+        border: 2px solid #ff69b4;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        background: white;
+        color: #ff69b4;
+        position: relative;
+    }
+
+        .hk-tab:first-child {
+            border-radius: 25px 0 0 25px;
+        }
+
+        .hk-tab:last-child {
+            border-radius: 0 25px 25px 0;
+        }
+
+        .hk-tab:not(:last-child) {
+            border-right: none;
+        }
+
+        .hk-tab.active {
+            background: linear-gradient(135deg, #ff69b4 0%, #ff85c1 100%);
+            color: white;
+            box-shadow: 0 4px 15px rgba(255, 105, 180, 0.4);
+        }
+
+        .hk-tab:hover:not(.active) {
+            background: #fff0f5;
+        }
+
+    .hk-form-container {
+        background: white;
+        border-radius: 20px;
+        padding: 30px;
+        box-shadow: 0 8px 30px rgba(255, 105, 180, 0.15);
+        border: 2px solid #ffb6c1;
+    }
+
+    .hk-form-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px;
+        margin-bottom: 24px;
+    }
+
+    .hk-form-group {
+        position: relative;
+    }
+
+        .hk-form-group.full-width {
+            grid-column: 1 / -1;
+        }
+
+    .hk-checkout-wrapper input,
+    .hk-checkout-wrapper textarea {
+        width: 100%;
+        padding: 16px 18px;
+        font-size: 15px;
+        font-family: 'Nunito', sans-serif;
+        border: 2px solid #ffd1dc;
+        border-radius: 12px;
+        background: #fffafa;
+        color: #333;
+        outline: none;
+        transition: all 0.3s ease;
+    }
+
+        .hk-checkout-wrapper input::placeholder,
+        .hk-checkout-wrapper textarea::placeholder {
+            color: #d8a9b3;
+        }
+
+        .hk-checkout-wrapper input:focus,
+        .hk-checkout-wrapper textarea:focus {
+            border-color: #ff69b4;
+            background: white;
+            box-shadow: 0 0 0 4px rgba(255, 105, 180, 0.1);
+        }
+
+    .hk-checkout-wrapper textarea {
+        min-height: 140px;
+        resize: vertical;
+    }
+
+    .hk-form-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .hk-custom-checkbox {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        cursor: pointer;
+    }
+
+        .hk-custom-checkbox input {
+            display: none;
+        }
+
+    .hk-checkmark {
+        width: 22px;
+        height: 22px;
+        border: 2px solid #ff69b4;
+        border-radius: 6px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff0f5;
+        transition: all 0.3s ease;
+    }
+
+    .hk-custom-checkbox input:checked + .hk-checkmark {
+        background: linear-gradient(135deg, #ff69b4 0%, #ff85c1 100%);
+        border-color: #ff69b4;
+    }
+
+        .hk-custom-checkbox input:checked + .hk-checkmark::after {
+            content: '\2665';
+            color: white;
+            font-size: 14px;
+        }
+
+    .hk-custom-checkbox span:last-child {
+        font-size: 15px;
+        color: #666;
+        font-weight: 500;
+    }
+
+    .hk-next-btn {
+        padding: 14px 50px;
+        background: linear-gradient(135deg, #ff69b4 0%, #ff85c1 100%);
+        color: white;
+        border: none;
+        border-radius: 25px;
+        font-size: 16px;
+        font-weight: 600;
+        font-family: 'Nunito', sans-serif;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 15px rgba(255, 105, 180, 0.4);
+    }
+
+        .hk-next-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(255, 105, 180, 0.5);
+        }
+
+        .hk-next-btn::before {
+            content: '\273F';
+            margin-right: 8px;
+        }
+
+    .hk-form-title {
+        text-align: center;
+        color: #ff69b4;
+        font-size: 14px;
+        font-weight: 600;
+        margin-bottom: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
+        .hk-form-title::before,
+        .hk-form-title::after {
+            content: '\2665';
+            font-size: 12px;
+        }
+
+    .hk-heart-decoration {
+        position: absolute;
+        font-size: 20px;
+        color: #ffb6c1;
+        opacity: 0.5;
+        pointer-events: none;
+        z-index: 0;
+    }
+
+    .hk-heart-1 {
+        top: 10%;
+        left: 5%;
+    }
+
+    .hk-heart-2 {
+        top: 20%;
+        right: 8%;
+    }
+
+    .hk-heart-3 {
+        bottom: 15%;
+        left: 10%;
+    }
+
+    .hk-heart-4 {
+        bottom: 25%;
+        right: 5%;
+    }
+</style>
+
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<section class="hk-checkout-wrapper">
+    <span class="hk-heart-decoration hk-heart-1">&#9829;</span>
+    <span class="hk-heart-decoration hk-heart-2">&#9829;</span>
+    <span class="hk-heart-decoration hk-heart-3">&#9829;</span>
+    <span class="hk-heart-decoration hk-heart-4">&#9829;</span>
+
+    <div class="hk-container">
+        <div class="hk-kitty-decoration">
+            <div class="hk-kitty-face">
+                <div class="hk-bow">
+                    <div class="hk-bow-center"></div>
+                </div>
+                <div class="hk-kitty-eyes">
+                    <div class="hk-kitty-eye"></div>
+                    <div class="hk-kitty-eye"></div>
+                </div>
+                <div class="hk-kitty-nose"></div>
+                <div class="hk-kitty-whiskers">
+                    <div class="hk-whisker hk-whisker-left-1"></div>
+                    <div class="hk-whisker hk-whisker-left-2"></div>
+                    <div class="hk-whisker hk-whisker-left-3"></div>
+                    <div class="hk-whisker hk-whisker-right-1"></div>
+                    <div class="hk-whisker hk-whisker-right-2"></div>
+                    <div class="hk-whisker hk-whisker-right-3"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="hk-tabs">
+            <button class="hk-tab active">Billing Details</button>
+            <button class="hk-tab">Payment</button>
+            <button class="hk-tab">Receipt</button>
+        </div>
+
+        <form class="hk-form-container">
+            <div class="hk-form-title">Please fill in your details</div>
+
+            <div class="hk-form-row">
+                <div class="hk-form-group">
+                    <input type="text" placeholder="First Name*" required>
+                </div>
+                <div class="hk-form-group">
+                    <input type="text" placeholder="Last Name*" required>
+                </div>
+            </div>
+
+            <div class="hk-form-row">
+                <div class="hk-form-group">
+                    <input type="tel" placeholder="Phone*" required>
+                </div>
+                <div class="hk-form-group">
+                    <input type="email" placeholder="Email*" required>
+                </div>
+            </div>
+
+            <div class="hk-form-row">
+                <div class="hk-form-group">
+                    <input type="text" placeholder="Country">
+                </div>
+                <div class="hk-form-group">
+                    <input type="text" placeholder="State">
+                </div>
+            </div>
+
+            <div class="hk-form-row">
+                <div class="hk-form-group">
+                    <input type="text" placeholder="City">
+                </div>
+                <div class="hk-form-group">
+                    <input type="text" placeholder="Pincode*" required>
+                </div>
+            </div>
+
+            <div class="hk-form-row">
+                <div class="hk-form-group full-width">
+                    <textarea placeholder="Address*" required></textarea>
+                </div>
+            </div>
+
+            <div class="hk-form-footer">
+                <label class="hk-custom-checkbox">
+                    <input type="checkbox">
+                    <span class="hk-checkmark"></span>
+                    <span>Ship To This Address</span>
+                </label>
+                <button type="submit" class="hk-next-btn">Next</button>
+            </div>
+        </form>
+    </div>
+</section>

@@ -1,0 +1,12 @@
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\bin\Debug\net8.0\TaroTime.Domain.deps.json
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\bin\Debug\net8.0\TaroTime.Domain.dll
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\bin\Debug\net8.0\TaroTime.Domain.pdb
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\TaroTime.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\TaroTime.Domain.AssemblyInfoInputs.cache
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\TaroTime.Domain.AssemblyInfo.cs
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\TaroTime.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\TaroTime.Domain.dll
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\refint\TaroTime.Domain.dll
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\TaroTime.Domain.pdb
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\ref\TaroTime.Domain.dll
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Domain\obj\Debug\net8.0\TaroTime.Domain.csproj.AssemblyReference.cache

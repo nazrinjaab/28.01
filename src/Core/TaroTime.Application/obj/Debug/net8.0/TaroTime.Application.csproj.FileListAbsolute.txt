@@ -1,0 +1,15 @@
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\bin\Debug\net8.0\TaroTime.Application.deps.json
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\bin\Debug\net8.0\TaroTime.Application.dll
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\bin\Debug\net8.0\TaroTime.Application.pdb
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\bin\Debug\net8.0\TaroTime.Domain.dll
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\bin\Debug\net8.0\TaroTime.Domain.pdb
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\TaroTime.Application.csproj.AssemblyReference.cache
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\TaroTime.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\TaroTime.Application.AssemblyInfoInputs.cache
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\TaroTime.Application.AssemblyInfo.cs
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\TaroTime.Application.csproj.CoreCompileInputs.cache
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\TaroTime.A5389A61.Up2Date
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\TaroTime.Application.dll
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\refint\TaroTime.Application.dll
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\TaroTime.Application.pdb
+C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Core\TaroTime.Application\obj\Debug\net8.0\ref\TaroTime.Application.dll
