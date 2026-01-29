@@ -104,7 +104,8 @@ modelBuilder.Entity<Appointment>()
         public DbSet<CoffeeReading> CoffeeReadings { get; set; }
         public DbSet<PalmReading> PalmReadings { get; set; }
         public DbSet<Appointment> Appointments { get; set; }
-
+        public DbSet<Feedback> Feedbacks { get; set; }
+        
 
 
     }

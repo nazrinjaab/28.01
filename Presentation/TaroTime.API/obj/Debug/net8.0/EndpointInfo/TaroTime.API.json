@@ -561,6 +561,97 @@
         }
       }
     },
+    "/FeedBacks/submit": {
+      "post": {
+        "tags": [
+          "FeedBacks"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "UserName": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string"
+                  },
+                  "Type": {
+                    "$ref": "#/components/schemas/FeedbackType"
+                  },
+                  "Message": {
+                    "type": "string"
+                  },
+                  "CreatedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                  }
+                }
+              },
+              "encoding": {
+                "UserName": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "Type": {
+                  "style": "form"
+                },
+                "Message": {
+                  "style": "form"
+                },
+                "CreatedAt": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/FeedBacks/all": {
+      "get": {
+        "tags": [
+          "FeedBacks"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/FeedBacks/{id}": {
+      "get": {
+        "tags": [
+          "FeedBacks"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Palms/create": {
       "post": {
         "tags": [
@@ -1096,6 +1187,14 @@
           }
         },
         "additionalProperties": false
+      },
+      "FeedbackType": {
+        "enum": [
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
       },
       "MeetingType": {
         "enum": [

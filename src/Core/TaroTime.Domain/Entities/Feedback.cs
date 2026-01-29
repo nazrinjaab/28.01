@@ -13,7 +13,7 @@ namespace TaroTime.Domain.Entities
         public string? UserName { get; set; }
         public string? Email { get; set; }
         public FeedbackType Type { get; set; }   
-        public string Message { get; set; }
+        public string? Message { get; set; }
        
     }
 }

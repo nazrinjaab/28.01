@@ -46,6 +46,7 @@ namespace TaroTime.Persistence
             services.AddScoped<ICoffeeRepository, CoffeeRepository>();
             services.AddScoped<IPalmRepository, PalmRepository>();
             services.AddScoped<IAppointmentRepository, AppointmentRepository>();
+            services.AddScoped<IFeedbackRepository, FeedBackRepository>();
 
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IProductService, ProductService>();
@@ -57,6 +58,7 @@ namespace TaroTime.Persistence
             services.AddScoped<ICoffeeService, CoffeeService>();
             services.AddScoped<IPalmService, PalmService>();
             services.AddScoped<IAppointmentService, AppointmentService>();
+            services.AddScoped<IFeedbackService, FeedbackService>();
             services.AddScoped<AppDbContextInitializer>();
 
 

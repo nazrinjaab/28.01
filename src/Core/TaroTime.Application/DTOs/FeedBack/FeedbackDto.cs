@@ -11,7 +11,7 @@ namespace TaroTime.Application.DTOs.FeedBack
         string? UserName,
         string? Email,
         FeedbackType Type,
-        string Message,
+        string? Message,
         DateTime CreatedAt
        );
  }
