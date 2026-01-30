@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj": {}
+    "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj": {
+    "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
+        "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
         "projectName": "TaroTime.Application",
-        "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
+        "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
         "packagesPath": "C:\\Users\\nazri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Application\\obj\\",
+        "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj": {
-                "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj"
+              "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj": {
+                "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj": {
+    "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj",
         "projectName": "TaroTime.Domain",
-        "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj",
+        "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj",
         "packagesPath": "C:\\Users\\nazri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\obj\\",
+        "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj": {
+    "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj",
         "projectName": "TaroTime.Infrastructure",
-        "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\nazri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -190,8 +190,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj": {
-                "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj"
+              "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj": {
+                "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj"
               }
             }
           }

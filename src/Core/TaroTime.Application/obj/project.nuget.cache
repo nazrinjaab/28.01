@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PbjCKjaNsVA=",
+  "dgSpecHash": "dngQP0Fd5vc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
+  "projectFilePath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nazri\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\nazri\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",

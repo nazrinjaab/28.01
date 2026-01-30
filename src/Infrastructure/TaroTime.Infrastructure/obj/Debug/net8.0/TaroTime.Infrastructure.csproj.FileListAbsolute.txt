@@ -15,3 +15,21 @@ C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Infrastructure
 C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\refint\TaroTime.Infrastructure.dll
 C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.pdb
 C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\ref\TaroTime.Infrastructure.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\bin\Debug\net8.0\TaroTime.Infrastructure.deps.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\bin\Debug\net8.0\TaroTime.Infrastructure.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\bin\Debug\net8.0\TaroTime.Infrastructure.pdb
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\bin\Debug\net8.0\TaroTime.Application.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\bin\Debug\net8.0\TaroTime.Domain.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\bin\Debug\net8.0\TaroTime.Application.pdb
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\bin\Debug\net8.0\TaroTime.Domain.pdb
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.AssemblyInfo.cs
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.sourcelink.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.04FA8C17.Up2Date
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\refint\TaroTime.Infrastructure.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\TaroTime.Infrastructure.pdb
+C:\Users\nazri\OneDrive\Desktop\TaroTime\src\Infrastructure\TaroTime.Infrastructure\obj\Debug\net8.0\ref\TaroTime.Infrastructure.dll

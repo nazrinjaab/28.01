@@ -56,11 +56,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\Presentation\\TaroTime.MVC\\TaroTime.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\TaroTime.MVC.csproj",
       "projectName": "TaroTime.MVC",
-      "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\Presentation\\TaroTime.MVC\\TaroTime.MVC.csproj",
+      "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\TaroTime.MVC.csproj",
       "packagesPath": "C:\\Users\\nazri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\Presentation\\TaroTime.MVC\\obj\\",
+      "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

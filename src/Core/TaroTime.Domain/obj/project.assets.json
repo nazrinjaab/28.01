@@ -821,11 +821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj",
       "projectName": "TaroTime.Domain",
-      "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj",
+      "projectPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj",
       "packagesPath": "C:\\Users\\nazri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Core\\TaroTime.Domain\\obj\\",
+      "outputPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
