@@ -12,5 +12,8 @@ namespace TaroTime.Application.Interfaces.Services
         Task CreateRequestAsync(string userId, CreatePalmRequestDto dto);
         Task AcceptAsync(long palmId, string readerId);
         Task AnswerAsync(string readerId, AnswerPalmDto dto);
+        Task<IReadOnlyList<PalmReadingDto>> GetAllAsync();
+        Task<IEnumerable<PalmReadingDto>> GetByUserIdAsync(string userId);
+
     }
 }

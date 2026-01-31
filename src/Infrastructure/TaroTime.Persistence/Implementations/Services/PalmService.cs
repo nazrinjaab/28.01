@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -52,6 +53,8 @@ namespace TaroTime.Persistence.Implementations.Services
             await _repository.SaveChangesAsync();
         }
 
+
+
         public async Task AcceptAsync(long palmId, string readerId)
         {
             var palm = await _repository.GetByIdAsync(palmId)
@@ -68,6 +71,8 @@ namespace TaroTime.Persistence.Implementations.Services
             await _repository.SaveChangesAsync();
         }
 
+
+
         public async Task AnswerAsync(string readerId, AnswerPalmDto dto)
         {
             var palm = await _repository.GetByIdAsync(dto.PalmId)
@@ -82,6 +87,46 @@ namespace TaroTime.Persistence.Implementations.Services
 
             _repository.Update(palm);
             await _repository.SaveChangesAsync();
+        }
+
+        public async Task<IReadOnlyList<PalmReadingDto>> GetAllAsync()
+        {
+            var palms = await _repository
+               .GetAll(
+                   sort: p => p.CreatedAt,
+                   includes: null
+               )
+               .ToListAsync();
+
+
+            var result = palms.Select(x => new PalmReadingDto
+                (
+                     x.Id,
+                     x.Result,
+                     x.UserId
+                ))
+                .ToList();
+            return result;
+
+        }
+
+        public async Task<IEnumerable<PalmReadingDto>> GetByUserIdAsync(string userId)
+        {
+            var palms = await _repository
+        .GetAll(
+            sort: p => p.CreatedAt,
+            includes: null
+        )
+        .Where(x => x.UserId == userId) 
+        .ToListAsync();
+
+            var result = palms.Select(x => new PalmReadingDto(
+                x.Id,
+                x.Result,
+                x.UserId
+            ));
+
+            return result;
         }
     }
 }

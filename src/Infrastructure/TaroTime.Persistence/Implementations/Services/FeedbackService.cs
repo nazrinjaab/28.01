@@ -75,7 +75,7 @@ namespace TaroTime.Persistence.Implementations.Services
         }
 
 
-        public async Task<Feedback?> GetByIdAsync(int id)
+        public async Task<Feedback?> GetByIdAsync(long id)
         {
             return await _repository.GetByIdAsync(id);
         }

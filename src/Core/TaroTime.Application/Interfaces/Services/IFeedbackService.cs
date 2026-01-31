@@ -12,6 +12,7 @@ namespace TaroTime.Application.Interfaces.Services
     {
         Task SubmitAsync(FeedbackDto dto);
         Task<IReadOnlyList<FeedbackDto>> GetAllAsync();
-        Task<Feedback?> GetByIdAsync(int id);
+        Task<Feedback?> GetByIdAsync(long id);
+
     }
 }

@@ -18,6 +18,7 @@ namespace TaroTime.Domain.Entities
         public DateTime? AcceptedAt { get; set; }
         public DateTime? CompletedAt { get; set; }
         public string HandImagePath { get; set; }
+        public string Result { get; set; }
 
     }
 }

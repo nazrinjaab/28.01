@@ -3,6 +3,102 @@
   "WorkspaceRootPath": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\interfaces\\services\\ipalmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\interfaces\\services\\ipalmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\palmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\palmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\interfaces\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\interfaces\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\feedback\\islogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\feedback\\islogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\feedback\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\feedback\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\feedback\\islogindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\feedback\\islogindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\feedback\\feedbackdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\feedback\\feedbackdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\palmreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\palmreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\palm\\palmreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\palm\\palmreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\coffeereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\coffeereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\products\\getproductincategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\products\\getproductincategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\appointment\\cancelappointmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\appointment\\cancelappointmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\palm\\createpalmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\palm\\createpalmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\appusers\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appusers\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\appusers\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appusers\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\appusers\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appusers\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\palm\\answerpalmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\palm\\answerpalmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\appointment\\expertscheduledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\appointment\\expertscheduledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +111,12 @@
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appointments\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\configurations\\tarotreadingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\configurations\\tarotreadingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\coffeereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\coffeereading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\configurations\\coffeereadingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\configurations\\palmreadingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\palmreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\palmreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +151,6 @@
       "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\common\\baseaccountableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\configurations\\appointmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\configurations\\appointmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,10 +165,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\configurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\configurations\\productcolorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|solutionrelative:src\\core\\tarotime.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{079EDB50-A9EE-4C6C-AC6D-0A03A40E765D}|src\\Core\\TaroTime.Domain\\TaroTime.Domain.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.domain\\entities\\common\\basenameableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,10 +227,6 @@
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\tokens\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\palm\\createpalmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\palm\\createpalmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\palm\\createpalmrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\palm\\createpalmrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -163,32 +235,12 @@
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\palm\\answerpalmdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\palm\\answerpalmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\palm\\answerpalmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\feedback\\islogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\feedback\\islogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\feedback\\islogindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\feedback\\islogindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\feedback\\feedbackdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\feedback\\feedbackdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\products\\postproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\products\\postproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\products\\putproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\products\\putproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\feedback\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\feedback\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\coffees\\answercoffeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -209,10 +261,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\appointment\\getappointmentitemdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -245,10 +293,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\appointments\\cancelappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appointments\\cancelappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\appointment\\cancelappointmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\validators\\appointment\\cancelappointmentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\validators\\appuser\\resetpasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -287,24 +331,12 @@
       "RelativeMoniker": "D:0:0:{0D96C0E7-0F64-4F82-8DA8-BF022B51EB72}|Presentation\\TaroTime.API\\TaroTime.API.csproj|solutionrelative:presentation\\tarotime.api\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\interfaces\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\interfaces\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\palmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\palmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\apponitmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\apponitmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\interfaces\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -317,14 +349,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\appusers\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appusers\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\appusers\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appusers\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\appusers\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appusers\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D96C0E7-0F64-4F82-8DA8-BF022B51EB72}|Presentation\\TaroTime.API\\TaroTime.API.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\presentation\\tarotime.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -440,10 +464,6 @@
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\interfaces\\services\\itarotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\interfaces\\services\\ipalmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\interfaces\\services\\ipalmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\interfaces\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\interfaces\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -504,10 +524,6 @@
       "RelativeMoniker": "D:0:0:{EC316F04-261E-4D28-91BE-A3BB67B91C3D}|src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj|solutionrelative:src\\infrastructure\\tarotime.infrastructure\\tarotime.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\interfaces\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\infrastructure\\tarotime.persistence\\implementations\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FC7D56-193F-403C-9D40-002D10D9D922}|src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj|solutionrelative:src\\infrastructure\\tarotime.persistence\\implementations\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -548,14 +564,6 @@
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\products\\getproductitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\products\\getproductincategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\products\\getproductincategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\products\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\categories\\postcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\categories\\postcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -566,10 +574,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\categories\\getcategoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\categories\\getcategoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\dtos\\appusers\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|solutionrelative:src\\core\\tarotime.application\\dtos\\appusers\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C45B01BD-8201-4C29-9635-424C93E30EBE}|src\\Core\\TaroTime.Application\\TaroTime.Application.csproj|c:\\users\\nazri\\onedrive\\desktop\\tarotime\\src\\core\\tarotime.application\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -701,11 +705,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 50,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "PalmReadingDto.cs",
+              "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Palm\\PalmReadingDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Palm\\PalmReadingDto.cs",
+              "ToolTip": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Palm\\PalmReadingDto.cs",
+              "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Palm\\PalmReadingDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:21:49.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "TarotReadingConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\TarotReadingConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\TarotReadingConfiguration.cs",
@@ -713,12 +730,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\TarotReadingConfiguration.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T19:09:18.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T19:09:18.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 32,
               "Title": "PalmReadingConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\PalmReadingConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\PalmReadingConfiguration.cs",
@@ -726,12 +742,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\PalmReadingConfiguration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T19:07:35.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T19:07:35.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 35,
               "Title": "FeedbackConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\FeedbackConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\FeedbackConfiguration.cs",
@@ -739,12 +754,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\FeedbackConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T19:05:34.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T19:05:34.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 29,
               "Title": "CoffeeReadingConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\CoffeeReadingConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\CoffeeReadingConfiguration.cs",
@@ -752,12 +766,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\CoffeeReadingConfiguration.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T19:00:48.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T19:00:48.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 37,
               "Title": "AppointmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\AppointmentConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\AppointmentConfiguration.cs",
@@ -765,12 +778,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\AppointmentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:56:47.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T18:56:47.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 50,
               "Title": "CreateTarotRequestDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Tarot\\CreateTarotRequestDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Tarot\\CreateTarotRequestDtoValidator.cs",
@@ -778,12 +790,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Tarot\\CreateTarotRequestDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:38:48.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T18:38:48.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 52,
               "Title": "AnswerTarotDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Tarot\\AnswerTarotDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Tarot\\AnswerTarotDtoValidator.cs",
@@ -791,12 +802,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Tarot\\AnswerTarotDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:37:20.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T18:37:20.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 56,
               "Title": "CreatePalmRequestDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Palm\\CreatePalmRequestDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Palm\\CreatePalmRequestDtoValidator.cs",
@@ -804,12 +814,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Palm\\CreatePalmRequestDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:34:51.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T18:34:51.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 57,
               "Title": "AnswerPalmDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Palm\\AnswerPalmDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Palm\\AnswerPalmDtoValidator.cs",
@@ -817,12 +826,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Palm\\AnswerPalmDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:33:36.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T18:33:36.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 6,
               "Title": "isLoginDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\FeedBack\\isLoginDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\FeedBack\\isLoginDtoValidator.cs",
@@ -835,7 +843,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 7,
               "Title": "FeedbackDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\FeedBack\\FeedbackDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\FeedBack\\FeedbackDtoValidator.cs",
@@ -848,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 51,
               "Title": "CreateCoffeeRequestDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Coffee\\CreateCoffeeRequestDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Coffee\\CreateCoffeeRequestDtoValidator.cs",
@@ -856,12 +864,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Coffee\\CreateCoffeeRequestDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:19:06.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T18:19:06.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 54,
               "Title": "AnswerCoffeeDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Coffee\\AnswerCoffeeDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Coffee\\AnswerCoffeeDtoValidator.cs",
@@ -869,12 +876,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Coffee\\AnswerCoffeeDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:16:28.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T18:16:28.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 70,
               "Title": "MakeRolesDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Account\\MakeRolesDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Account\\MakeRolesDtoValidator.cs",
@@ -882,12 +888,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Account\\MakeRolesDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T18:08:18.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T18:08:18.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 65,
               "Title": "GetAppointmentItemDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Appointment\\GetAppointmentItemDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Appointment\\GetAppointmentItemDtoValidator.cs",
@@ -895,12 +900,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Appointment\\GetAppointmentItemDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T17:58:32.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T17:58:32.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 24,
               "Title": "ExpertScheduleDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Appointment\\ExpertScheduleDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Appointment\\ExpertScheduleDtoValidator.cs",
@@ -913,7 +917,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "CreateAppointmentDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Appointment\\CreateAppointmentDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Appointment\\CreateAppointmentDtoValidator.cs",
@@ -921,12 +925,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Appointment\\CreateAppointmentDtoValidator.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwCEAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T17:42:05.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T17:42:05.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 16,
               "Title": "CancelAppointmentDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Appointment\\CancelAppointmentDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Appointment\\CancelAppointmentDtoValidator.cs",
@@ -939,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 4,
               "Title": "isLoginDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\FeedBack\\isLoginDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\FeedBack\\isLoginDto.cs",
@@ -952,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 81,
               "Title": "FeedBacksController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\FeedBacksController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\FeedBacksController.cs",
@@ -960,12 +963,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\FeedBacksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:08:32.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T13:08:32.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 173,
+              "DocumentIndex": 174,
               "Title": "20260129125818_AddFeedbacksTable.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260129125818_AddFeedbacksTable.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260129125818_AddFeedbacksTable.cs",
@@ -973,25 +975,24 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260129125818_AddFeedbacksTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T12:58:18.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T12:58:18.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 9,
               "Title": "FeedbackService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\FeedbackService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\FeedbackService.cs",
               "ToolTip": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\FeedbackService.cs",
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\FeedbackService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAArwB8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T18:35:21.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 85,
               "Title": "FeedBackRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\FeedBackRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\FeedBackRepository.cs",
@@ -999,12 +1000,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\FeedBackRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T18:33:49.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T18:33:49.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 101,
               "Title": "IFeedbackRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IFeedbackRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IFeedbackRepository.cs",
@@ -1012,25 +1012,24 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IFeedbackRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T18:32:39.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T18:32:39.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 3,
               "Title": "IFeedbackService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IFeedbackService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IFeedbackService.cs",
               "ToolTip": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IFeedbackService.cs",
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IFeedbackService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T18:32:00.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 5,
               "Title": "FeedbackDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\FeedBack\\FeedbackDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\FeedBack\\FeedbackDto.cs",
@@ -1043,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\Feedback.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\Feedback.cs",
@@ -1056,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 66,
               "Title": "FeedbackType.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Enums\\FeedbackType.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Enums\\FeedbackType.cs",
@@ -1064,12 +1063,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Enums\\FeedbackType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T18:25:45.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T18:25:45.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 104,
               "Title": "20260127182511_appoint.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127182511_appoint.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127182511_appoint.cs",
@@ -1077,12 +1075,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127182511_appoint.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T18:25:11.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T18:25:11.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 108,
               "Title": "20260127175905_appoint.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127175905_appoint.cs",
               "RelativeDocumentMoniker": "..\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127175905_appoint.cs",
@@ -1093,7 +1090,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 76,
               "Title": "ExpertScheduleDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Appointments\\ExpertScheduleDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Appointments\\ExpertScheduleDto.cs",
@@ -1101,12 +1098,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Appointments\\ExpertScheduleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T17:09:23.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T17:09:23.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 110,
               "Title": "20260127170334_appointment.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127170334_appointment.cs",
               "RelativeDocumentMoniker": "..\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127170334_appointment.cs",
@@ -1117,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 111,
               "Title": "20260127165532_appointments.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127165532_appointments.cs",
               "RelativeDocumentMoniker": "..\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260127165532_appointments.cs",
@@ -1128,7 +1124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 89,
               "Title": "AppointmentsController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\AppointmentsController.cs",
@@ -1136,12 +1132,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\AppointmentsController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAewDgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:38:34.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T16:38:34.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 71,
               "Title": "GetAppointmentItemDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Appointments\\GetAppointmentItemDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Appointments\\GetAppointmentItemDto.cs",
@@ -1149,12 +1144,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Appointments\\GetAppointmentItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T16:04:15.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T16:04:15.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 83,
               "Title": "ApponitmentService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\ApponitmentService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\ApponitmentService.cs",
@@ -1162,12 +1156,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\ApponitmentService.cs",
               "ViewState": "AgIAAHoAAAAAAAAAAAAswCwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:40:33.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:40:33.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 84,
               "Title": "IAppointmentService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IAppointmentService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IAppointmentService.cs",
@@ -1175,12 +1168,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IAppointmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:39:46.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:39:46.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 99,
               "Title": "AppointmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\AppointmentRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\AppointmentRepository.cs",
@@ -1188,12 +1180,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\AppointmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:37:28.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:37:28.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 26,
               "Title": "CreateAppointmentDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Appointments\\CreateAppointmentDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Appointments\\CreateAppointmentDto.cs",
@@ -1201,12 +1192,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Appointments\\CreateAppointmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:32:01.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:32:01.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 72,
               "Title": "CancelAppointmentDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Appointments\\CancelAppointmentDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Appointments\\CancelAppointmentDto.cs",
@@ -1214,12 +1204,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Appointments\\CancelAppointmentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:31:06.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:31:06.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 100,
               "Title": "IAppointmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IAppointmentRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IAppointmentRepository.cs",
@@ -1227,12 +1216,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IAppointmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:28:50.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:28:50.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 75,
               "Title": "AppointmentStatus.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Enums\\AppointmentStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Enums\\AppointmentStatus.cs",
@@ -1240,12 +1228,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Enums\\AppointmentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:26:51.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:26:51.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 47,
               "Title": "MeetingType.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Enums\\MeetingType.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Enums\\MeetingType.cs",
@@ -1253,12 +1240,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Enums\\MeetingType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:26:04.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:26:04.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 45,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\Appointment.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\Appointment.cs",
@@ -1266,12 +1252,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:22:29.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:22:29.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 107,
               "Title": "20260126235513_palm.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126235513_palm.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126235513_palm.cs",
@@ -1279,12 +1264,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126235513_palm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T23:55:13.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T23:55:13.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 95,
               "Title": "PalmsController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\PalmsController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\PalmsController.cs",
@@ -1292,12 +1276,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\PalmsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T23:53:04.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T23:53:04.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 23,
               "Title": "AnswerPalmDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Palm\\AnswerPalmDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Palm\\AnswerPalmDto.cs",
@@ -1310,7 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 19,
               "Title": "CreatePalmRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Palm\\CreatePalmRequestDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Palm\\CreatePalmRequestDto.cs",
@@ -1323,33 +1306,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 1,
               "Title": "PalmService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\PalmService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\PalmService.cs",
               "ToolTip": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\PalmService.cs",
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\PalmService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwHAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T23:44:33.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 0,
               "Title": "IPalmService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IPalmService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IPalmService.cs",
               "ToolTip": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IPalmService.cs",
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IPalmService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T23:44:10.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 96,
               "Title": "PalmRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\PalmRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\PalmRepository.cs",
@@ -1357,12 +1340,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\PalmRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T23:41:58.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T23:41:58.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 122,
               "Title": "IPalmRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IPalmRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IPalmRepository.cs",
@@ -1370,12 +1352,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IPalmRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T23:41:06.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T23:41:06.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 118,
               "Title": "PalmStatus.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Enums\\PalmStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Enums\\PalmStatus.cs",
@@ -1383,25 +1364,24 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Enums\\PalmStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T23:39:15.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T23:39:15.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "PalmReading.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\PalmReading.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\PalmReading.cs",
               "ToolTip": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\PalmReading.cs",
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\PalmReading.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T23:32:23.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 103,
               "Title": "20260126230837_coffee.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126230837_coffee.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126230837_coffee.cs",
@@ -1409,12 +1389,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126230837_coffee.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T23:08:37.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T23:08:37.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 88,
               "Title": "CoffeesController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\CoffeesController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\CoffeesController.cs",
@@ -1422,12 +1401,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\CoffeesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T17:09:39.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T17:09:39.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 62,
               "Title": "CoffeeService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\CoffeeService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\CoffeeService.cs",
@@ -1435,12 +1413,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\CoffeeService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:56:24.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T16:56:24.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 129,
               "Title": "ICoffeeService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\ICoffeeService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ICoffeeService.cs",
@@ -1448,12 +1425,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ICoffeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:56:10.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T16:56:10.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 97,
               "Title": "CoffeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\CoffeeRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\CoffeeRepository.cs",
@@ -1461,12 +1437,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\CoffeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:54:04.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T16:54:04.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 117,
               "Title": "ICoffeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ICoffeeRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ICoffeeRepository.cs",
@@ -1474,12 +1449,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ICoffeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:52:32.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T16:52:32.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 60,
               "Title": "AnswerCoffeeDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Coffees\\AnswerCoffeeDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Coffees\\AnswerCoffeeDto.cs",
@@ -1487,12 +1461,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Coffees\\AnswerCoffeeDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:50:56.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T16:50:56.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 61,
               "Title": "CreateCoffeeRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Coffees\\CreateCoffeeRequestDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Coffees\\CreateCoffeeRequestDto.cs",
@@ -1500,12 +1473,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Coffees\\CreateCoffeeRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:49:14.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T16:49:14.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 120,
               "Title": "CoffeeStatus.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Enums\\CoffeeStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Enums\\CoffeeStatus.cs",
@@ -1513,25 +1485,24 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Enums\\CoffeeStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:47:56.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T16:47:56.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "CoffeeReading.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\CoffeeReading.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\CoffeeReading.cs",
               "ToolTip": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\CoffeeReading.cs",
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\CoffeeReading.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T16:45:12.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 172,
+              "DocumentIndex": 173,
               "Title": "20260126015453_AddTarotReading.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126015453_AddTarotReading.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126015453_AddTarotReading.cs",
@@ -1539,12 +1510,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260126015453_AddTarotReading.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T01:54:54.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T01:54:54.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 124,
               "Title": "TarotRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\TarotRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\TarotRepository.cs",
@@ -1552,12 +1522,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\TarotRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T00:30:10.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T00:30:10.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 132,
               "Title": "ITarotRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ITarotRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ITarotRepository.cs",
@@ -1565,12 +1534,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ITarotRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T00:27:48.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T00:27:48.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 63,
               "Title": "TarotService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\TarotService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\TarotService.cs",
@@ -1578,12 +1546,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\TarotService.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAgwCQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T18:08:05.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T18:08:05.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 115,
               "Title": "ITarotService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITarotService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITarotService.cs",
@@ -1591,12 +1558,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITarotService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T18:07:50.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T18:07:50.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 53,
               "Title": "AnswerTarotDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Tarots\\AnswerTarotDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Tarots\\AnswerTarotDto.cs",
@@ -1604,12 +1570,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Tarots\\AnswerTarotDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T18:03:01.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T18:03:01.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 49,
               "Title": "CreateTarotRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Tarots\\CreateTarotRequestDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Tarots\\CreateTarotRequestDto.cs",
@@ -1617,12 +1582,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Tarots\\CreateTarotRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T18:00:15.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T18:00:15.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 125,
               "Title": "TarotStatus.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Enums\\TarotStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Enums\\TarotStatus.cs",
@@ -1630,12 +1594,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Enums\\TarotStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T17:57:27.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T17:57:27.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "TarotReading.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\TarotReading.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\TarotReading.cs",
@@ -1643,12 +1606,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\TarotReading.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T17:50:18.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T17:50:18.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 153,
               "Title": "RoleHelper.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Helpers\\RoleHelper.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Helpers\\RoleHelper.cs",
@@ -1656,12 +1618,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Helpers\\RoleHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:37:59.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:37:59.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 64,
               "Title": "RoleService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\RoleService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\RoleService.cs",
@@ -1669,12 +1630,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\RoleService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T17:59:59.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T17:59:59.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 134,
               "Title": "IRoleService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IRoleService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IRoleService.cs",
@@ -1682,12 +1642,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IRoleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T17:58:43.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T17:58:43.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "MakeRolesDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Accounts\\MakeRolesDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Accounts\\MakeRolesDto.cs",
@@ -1695,12 +1654,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Accounts\\MakeRolesDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T17:56:03.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T17:56:03.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 156,
               "Title": "TaroTime.Application.csproj",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
@@ -1708,12 +1666,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\TaroTime.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-24T17:55:15.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T17:55:15.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 128,
               "Title": "TarotsController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\TarotsController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\TarotsController.cs",
@@ -1721,12 +1678,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\TarotsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T02:08:07.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T02:08:07.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 135,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\RolesController.cs",
@@ -1734,12 +1690,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\RolesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwCkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:54:00.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T01:54:00.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 73,
               "Title": "ResetPasswordValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\AppUser\\ResetPasswordValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\AppUser\\ResetPasswordValidator.cs",
@@ -1747,12 +1702,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\AppUser\\ResetPasswordValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T00:30:21.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T00:30:21.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 86,
               "Title": "ResetPasswordDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\ResetPasswordDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\ResetPasswordDto.cs",
@@ -1760,12 +1714,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\ResetPasswordDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T19:27:40.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T19:27:40.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 22,
               "Title": "ForgotPasswordDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\ForgotPasswordDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\ForgotPasswordDto.cs",
@@ -1778,7 +1731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 121,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Enums\\UserRole.cs",
@@ -1786,12 +1739,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Enums\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T16:06:25.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T16:06:25.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 109,
               "Title": "AppDbContextInitializer.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\AppDbContextInitializer.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\AppDbContextInitializer.cs",
@@ -1799,12 +1751,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\AppDbContextInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T00:58:26.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T00:58:26.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 106,
               "Title": "20260120232303_initial.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260120232303_initial.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260120232303_initial.cs",
@@ -1812,12 +1763,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260120232303_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T23:23:03.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T23:23:03.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 157,
               "Title": "20260120232056_initial.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260120232056_initial.cs",
               "RelativeDocumentMoniker": "..\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260120232056_initial.cs",
@@ -1828,7 +1778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 158,
               "Title": "20260120231215_initial.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260120231215_initial.cs",
               "RelativeDocumentMoniker": "..\\Code Academy\\Example\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Migrations\\20260120231215_initial.cs",
@@ -1839,7 +1789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 161,
+              "DocumentIndex": 162,
               "Title": "GetCategoryItemVM.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\ViewModels\\GetCategoryItemVM.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\ViewModels\\GetCategoryItemVM.cs",
@@ -1847,12 +1797,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\ViewModels\\GetCategoryItemVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:51:04.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T21:51:04.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 147,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Infrastructure\\ServiceRegistration.cs",
@@ -1860,12 +1809,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Infrastructure\\ServiceRegistration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwCcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T21:18:40.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T21:18:40.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 55,
               "Title": "TokenResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Tokens\\TokenResponseDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Tokens\\TokenResponseDto.cs",
@@ -1873,12 +1821,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Tokens\\TokenResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T18:28:46.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T18:28:46.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 94,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\Implementations\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Infrastructure\\Implementations\\Services\\TokenService.cs",
@@ -1886,12 +1833,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Infrastructure\\Implementations\\Services\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T17:54:52.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T17:54:52.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 130,
               "Title": "TaroTime.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj",
@@ -1899,12 +1845,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Infrastructure\\TaroTime.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-20T17:53:08.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T17:53:08.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 136,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITokenService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITokenService.cs",
@@ -1912,12 +1857,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T17:50:29.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T17:50:29.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 68,
               "Title": "LoginDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\AppUser\\LoginDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\AppUser\\LoginDtoValidator.cs",
@@ -1925,12 +1869,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\AppUser\\LoginDtoValidator.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T01:47:18.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T01:47:18.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 21,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\LoginDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\LoginDto.cs",
@@ -1943,7 +1886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 105,
               "Title": "AccountsController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\AccountsController.cs",
@@ -1951,12 +1894,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwDMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T01:15:07.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T01:15:07.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 48,
               "Title": "AppUserProfile.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\MappingProfiles\\AppUserProfile.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\MappingProfiles\\AppUserProfile.cs",
@@ -1964,12 +1906,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\MappingProfiles\\AppUserProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T18:30:54.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T18:30:54.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 34,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\AuthenticationService.cs",
@@ -1977,12 +1918,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\AuthenticationService.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAgwF4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T18:28:19.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T18:28:19.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 102,
               "Title": "IAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IAuthenticationService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IAuthenticationService.cs",
@@ -1990,12 +1930,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IAuthenticationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T18:26:12.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T18:26:12.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 67,
               "Title": "RegisterDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\AppUser\\RegisterDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\AppUser\\RegisterDtoValidator.cs",
@@ -2003,12 +1942,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\AppUser\\RegisterDtoValidator.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T17:50:22.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T17:50:22.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 20,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\RegisterDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\AppUsers\\RegisterDto.cs",
@@ -2021,7 +1959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 33,
               "Title": "AppUserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\AppUserConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\AppUserConfiguration.cs",
@@ -2029,12 +1967,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\AppUserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T17:24:10.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T17:24:10.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 42,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\AppUser.cs",
@@ -2042,12 +1979,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T17:06:44.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T17:06:44.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 59,
               "Title": "PutProductDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Products\\PutProductDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Products\\PutProductDtoValidator.cs",
@@ -2055,12 +1991,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Products\\PutProductDtoValidator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T15:59:44.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T15:59:44.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 138,
               "Title": "PutProductDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Products\\PutProductDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Products\\PutProductDto.cs",
@@ -2068,12 +2003,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Products\\PutProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T15:53:32.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T15:53:32.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 58,
               "Title": "PostProductDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Validators\\Products\\PostProductDtoValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Validators\\Products\\PostProductDtoValidator.cs",
@@ -2081,12 +2015,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Validators\\Products\\PostProductDtoValidator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:17:33.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T01:17:33.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 139,
               "Title": "PostProductDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Products\\PostProductDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Products\\PostProductDto.cs",
@@ -2094,12 +2027,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Products\\PostProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T01:07:38.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T01:07:38.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 152,
               "Title": "GlobalQueryFilter.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Common\\GlobalQueryFilter.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Common\\GlobalQueryFilter.cs",
@@ -2107,12 +2039,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\Common\\GlobalQueryFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T20:24:00.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T20:24:00.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 127,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\ProductsController.cs",
@@ -2120,12 +2051,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:55:30.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:55:30.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 74,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\ServiceRegistration.cs",
@@ -2133,12 +2063,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\ServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:47:41.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:47:41.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 162,
+              "DocumentIndex": 163,
               "Title": "TagProfile.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\MappingProfiles\\TagProfile.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\MappingProfiles\\TagProfile.cs",
@@ -2146,12 +2075,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\MappingProfiles\\TagProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:43:15.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:43:15.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 145,
               "Title": "ColorProfile.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\MappingProfiles\\ColorProfile.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\MappingProfiles\\ColorProfile.cs",
@@ -2159,12 +2087,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\MappingProfiles\\ColorProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:42:59.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:42:59.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 146,
               "Title": "CategoryProfile.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\MappingProfiles\\CategoryProfile.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\MappingProfiles\\CategoryProfile.cs",
@@ -2172,12 +2099,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\MappingProfiles\\CategoryProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:42:12.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:42:12.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 144,
               "Title": "ProductProfile.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\MappingProfiles\\ProductProfile.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\MappingProfiles\\ProductProfile.cs",
@@ -2185,12 +2111,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\MappingProfiles\\ProductProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:40:39.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:40:39.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 87,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Controllers\\CategoriesController.cs",
@@ -2198,12 +2123,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:24:37.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:24:37.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 27,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\CategoryService.cs",
@@ -2211,12 +2135,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:49:56.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:49:56.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 18,
               "Title": "ColorService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\ColorService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\ColorService.cs",
@@ -2229,7 +2152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 82,
               "Title": "TagService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\TagService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\TagService.cs",
@@ -2237,12 +2160,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\TagService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:49:22.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:49:22.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Services\\ProductService.cs",
@@ -2255,7 +2177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 149,
               "Title": "TagRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\TagRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\TagRepository.cs",
@@ -2263,12 +2185,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\TagRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:43:28.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:43:28.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 131,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\ProductRepository.cs",
@@ -2276,12 +2197,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:43:02.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:43:02.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 98,
               "Title": "ColorRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\ColorRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\ColorRepository.cs",
@@ -2289,12 +2209,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\ColorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:42:32.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:42:32.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 114,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\Generic\\Repository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\Generic\\Repository.cs",
@@ -2302,12 +2221,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Implementations\\Repositories\\Generic\\Repository.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:30:17.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:30:17.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 93,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\appsettings.json",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\appsettings.json",
@@ -2315,12 +2233,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-17T15:14:24.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:14:24.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 80,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Program.cs",
@@ -2328,12 +2245,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:06:48.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:06:48.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 90,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\ServiceRegistration.cs",
@@ -2341,12 +2257,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\ServiceRegistration.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAIAwwDwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T15:03:34.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T15:03:34.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 43,
               "Title": "TagConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\TagConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\TagConfiguration.cs",
@@ -2354,12 +2269,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\TagConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:57:54.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:57:54.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 79,
               "Title": "ProductTagConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductTagConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductTagConfiguration.cs",
@@ -2367,12 +2281,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductTagConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:57:36.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:57:36.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 40,
               "Title": "ProductColorConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductColorConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductColorConfiguration.cs",
@@ -2380,12 +2293,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductColorConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:57:14.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:57:14.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "ColorConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ColorConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ColorConfiguration.cs",
@@ -2393,12 +2305,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ColorConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:56:56.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:56:56.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 38,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\CategoryConfiguration.cs",
@@ -2406,12 +2317,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\CategoryConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:56:41.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:56:41.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 155,
               "Title": "TaroTime.Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj",
@@ -2419,12 +2329,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\TaroTime.Persistence.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-17T14:52:28.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:52:28.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 39,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductConfiguration.cs",
@@ -2432,12 +2341,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Configurations\\ProductConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T14:49:33.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T14:49:33.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 92,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Infrastructure\\TaroTime.Persistence\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\AppDbContext.cs",
@@ -2445,12 +2353,11 @@
               "RelativeToolTip": "src\\Infrastructure\\TaroTime.Persistence\\Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAkwGsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:28:17.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:28:17.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 154,
               "Title": "GetTagInProductDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Tags\\GetTagInProductDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Tags\\GetTagInProductDto.cs",
@@ -2458,12 +2365,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Tags\\GetTagInProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:17:44.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:17:44.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 140,
               "Title": "GetProductItemDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Products\\GetProductItemDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Products\\GetProductItemDto.cs",
@@ -2471,12 +2377,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Products\\GetProductItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:16:27.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:16:27.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 14,
               "Title": "GetProductInCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Products\\GetProductInCategoryDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Products\\GetProductInCategoryDto.cs",
@@ -2489,7 +2394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 15,
               "Title": "GetProductDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Products\\GetProductDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Products\\GetProductDto.cs",
@@ -2502,7 +2407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 142,
               "Title": "PutCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Categories\\PutCategoryDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\PutCategoryDto.cs",
@@ -2510,12 +2415,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\PutCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:14:24.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:14:24.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 141,
               "Title": "PostCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Categories\\PostCategoryDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\PostCategoryDto.cs",
@@ -2523,12 +2427,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\PostCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:14:20.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:14:20.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 143,
               "Title": "GetCategoryItemDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
@@ -2536,12 +2439,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:14:13.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:14:13.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 112,
               "Title": "GetCategoryInProductDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryInProductDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryInProductDto.cs",
@@ -2549,12 +2451,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryInProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:14:07.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:14:07.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 113,
               "Title": "GetCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryDto.cs",
@@ -2562,12 +2463,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\DTOs\\Categories\\GetCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:13:13.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:13:13.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 133,
               "Title": "ITagService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITagService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITagService.cs",
@@ -2575,12 +2475,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ITagService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:09:10.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:09:10.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 2,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IProductService.cs",
@@ -2593,7 +2492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 91,
               "Title": "IColorService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\IColorService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IColorService.cs",
@@ -2601,12 +2500,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\IColorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:09:00.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:09:00.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 137,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Services\\ICategoryService.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ICategoryService.cs",
@@ -2614,12 +2512,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Services\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:07:52.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:07:52.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 150,
               "Title": "ITagRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ITagRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ITagRepository.cs",
@@ -2627,12 +2524,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ITagRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:03:00.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:03:00.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 148,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IProductRepository.cs",
@@ -2640,12 +2536,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:02:54.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:02:54.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 151,
               "Title": "IColorRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IColorRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IColorRepository.cs",
@@ -2653,12 +2548,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\IColorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:02:44.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:02:44.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 116,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
@@ -2666,12 +2560,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T16:02:17.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T16:02:17.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 123,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
@@ -2679,12 +2572,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Application\\Interfaces\\Repositories\\Generic\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:59:11.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:59:11.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 78,
               "Title": "ProductTag.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\ProductTag.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\ProductTag.cs",
@@ -2692,12 +2584,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\ProductTag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:38:21.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:38:21.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 77,
               "Title": "ProductColor.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\ProductColor.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\ProductColor.cs",
@@ -2705,12 +2596,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\ProductColor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:38:08.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:38:08.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 44,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\Tag.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\Tag.cs",
@@ -2718,12 +2608,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\Tag.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:36:40.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:36:40.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 126,
               "Title": "Color.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\Color.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\Color.cs",
@@ -2731,12 +2620,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\Color.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:36:26.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:36:26.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 46,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\Category.cs",
@@ -2744,12 +2632,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:35:18.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:35:18.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\Product.cs",
@@ -2762,7 +2649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 41,
               "Title": "BaseNameableEntity.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\common\\BaseNameableEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\common\\BaseNameableEntity.cs",
@@ -2770,12 +2657,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\common\\BaseNameableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:27:21.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:27:21.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 36,
               "Title": "BaseAccountableEntity.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\common\\BaseAccountableEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\common\\BaseAccountableEntity.cs",
@@ -2783,12 +2669,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\common\\BaseAccountableEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:24:32.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:24:32.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 119,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\src\\Core\\TaroTime.Domain\\Entities\\common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\TaroTime.Domain\\Entities\\common\\BaseEntity.cs",
@@ -2796,12 +2681,11 @@
               "RelativeToolTip": "src\\Core\\TaroTime.Domain\\Entities\\common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T15:14:58.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T15:14:58.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 163,
+              "DocumentIndex": 164,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Views\\Shop\\Cart.cshtml",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Views\\Shop\\Cart.cshtml",
@@ -2809,12 +2693,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Views\\Shop\\Cart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T14:47:48.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T14:47:48.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 166,
+              "DocumentIndex": 167,
               "Title": "CheckOut.cshtml",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Views\\Shop\\CheckOut.cshtml",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Views\\Shop\\CheckOut.cshtml",
@@ -2822,12 +2705,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Views\\Shop\\CheckOut.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T14:23:26.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T14:23:26.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 168,
+              "DocumentIndex": 169,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\Properties\\launchSettings.json",
@@ -2835,12 +2717,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-15T13:51:32.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T13:51:32.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 169,
+              "DocumentIndex": 170,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Properties\\launchSettings.json",
@@ -2848,24 +2729,22 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-15T13:51:28.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T13:51:28.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 170,
+              "DocumentIndex": 171,
               "Title": "TaroTime.API",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\TaroTime.API.csproj",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.API\\TaroTime.API.csproj",
               "ToolTip": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.API\\TaroTime.API.csproj",
               "RelativeToolTip": "Presentation\\TaroTime.API\\TaroTime.API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-15T13:51:20.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T13:51:20.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 171,
+              "DocumentIndex": 172,
               "Title": "ShopSingle.cshtml",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Views\\Shop\\ShopSingle.cshtml",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Views\\Shop\\ShopSingle.cshtml",
@@ -2873,12 +2752,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Views\\Shop\\ShopSingle.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T23:59:00.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:59:00.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 164,
+              "DocumentIndex": 165,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Controllers\\ShopController.cs",
@@ -2886,12 +2764,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Controllers\\ShopController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T23:49:53.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:49:53.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 167,
+              "DocumentIndex": 168,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Views\\Shop\\Shop.cshtml",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Views\\Shop\\Shop.cshtml",
@@ -2899,12 +2776,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Views\\Shop\\Shop.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T23:48:02.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T23:48:02.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 159,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Views\\Home\\Index.cshtml",
@@ -2912,12 +2788,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEICAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T22:16:56.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T22:16:56.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 165,
+              "DocumentIndex": 166,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -2925,12 +2800,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAMwAAAAAAAAAAIBpwPoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T22:00:15.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T22:00:15.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 160,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Views\\_ViewImports.cshtml",
@@ -2938,12 +2812,11 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-14T21:54:37.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T21:54:37.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 161,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\nazri\\OneDrive\\Desktop\\TaroTime\\Presentation\\TaroTime.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Presentation\\TaroTime.MVC\\Controllers\\HomeController.cs",
@@ -2951,8 +2824,7 @@
               "RelativeToolTip": "Presentation\\TaroTime.MVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T21:35:02.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T21:35:02.305Z"
             },
             {
               "$type": "Bookmark",
