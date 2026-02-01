@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TaroTime.Application.DTOs.Palm;
+using TaroTime.Application.DTOs.Tarots;
 using TaroTime.Application.Interfaces.Repositories;
 using TaroTime.Application.Interfaces.Services;
 using TaroTime.Domain.Entities;
@@ -46,12 +47,29 @@ namespace TaroTime.Persistence.Implementations.Services
                 Question = dto.Question,
                 HandImagePath = "/uploads/" + fileName,
                 Status = PalmStatus.Pending,
-                CreatedAt = DateTime.UtcNow
+                CreatedAt = DateTime.UtcNow,
+                Res= string.Empty
             };
 
             _repository.Add(palm);
             await _repository.SaveChangesAsync();
         }
+
+
+        //public async Task CreateRequestAsync(string userId, CreateTarotRequestDto dto)
+        //{
+        //    var tarot = new TarotReading
+        //    {
+        //        UserId = userId,
+        //        Question = dto.Question,
+        //        Status = TarotStatus.Pending,
+        //        CreatedAt = DateTime.UtcNow
+        //    };
+
+        //    _repository.Add(tarot);
+        //    await _repository.SaveChangesAsync();
+        //}
+
 
 
 
@@ -89,6 +107,8 @@ namespace TaroTime.Persistence.Implementations.Services
             await _repository.SaveChangesAsync();
         }
 
+
+
         public async Task<IReadOnlyList<PalmReadingDto>> GetAllAsync()
         {
             var palms = await _repository
@@ -101,9 +121,12 @@ namespace TaroTime.Persistence.Implementations.Services
 
             var result = palms.Select(x => new PalmReadingDto
                 (
-                     x.Id,
-                     x.Result,
-                     x.UserId
+                x.Id,
+                x.Question,
+                x.Answer,
+                x.UserId,
+                x.PalmReaderId,
+                x.Status
                 ))
                 .ToList();
             return result;
@@ -122,11 +145,33 @@ namespace TaroTime.Persistence.Implementations.Services
 
             var result = palms.Select(x => new PalmReadingDto(
                 x.Id,
-                x.Result,
-                x.UserId
+                x.Question,
+                x.Answer,
+                x.UserId = string.Empty,
+                x.PalmReaderId,
+                x.Status
             ));
 
             return result;
+        }
+
+        public async Task<IEnumerable<PalmerDto>> GetByReaderIdAsync(string readerId)
+        {
+            var palms = await _repository
+                .GetAll(sort: p => p.CreatedAt, includes: null)
+                .Where(x => x.PalmReaderId == readerId)
+                .ToListAsync();
+
+            return palms.Select(x => new PalmerDto(
+                x.Id,
+                x.Question,
+                x.HandImagePath,
+                x.Res,
+                x.UserId,
+                x.Status,
+                x.CreatedAt,
+                x.Answer
+            ));
         }
     }
 }

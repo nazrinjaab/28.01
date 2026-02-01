@@ -14,6 +14,7 @@ namespace TaroTime.Application.Interfaces.Services
         Task AnswerAsync(string readerId, AnswerPalmDto dto);
         Task<IReadOnlyList<PalmReadingDto>> GetAllAsync();
         Task<IEnumerable<PalmReadingDto>> GetByUserIdAsync(string userId);
+        Task<IEnumerable<PalmerDto>> GetByReaderIdAsync(string readerId);
 
     }
 }

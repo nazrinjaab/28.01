@@ -25,6 +25,9 @@ namespace TaroTime.API.Controllers
         [HttpPost("assign")]
         public async Task<IActionResult> AssignRole(string userId, UserRole role)
         {
+            if (!User.Identity?.IsAuthenticated ?? true)
+                return Unauthorized();
+
             var user = await _userManager.FindByIdAsync(userId);
             if (user == null) return NotFound("User not found");
 
@@ -35,6 +38,9 @@ namespace TaroTime.API.Controllers
         [HttpGet("{userId}/roles")]
         public async Task<IActionResult> GetUserRoles(string userId)
         {
+            if (!User.Identity?.IsAuthenticated ?? true)
+                return Unauthorized();
+
             var user = await _userManager.FindByIdAsync(userId);
             if (user == null) return NotFound("User not found");
 

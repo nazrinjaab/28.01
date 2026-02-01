@@ -12,5 +12,8 @@ namespace TaroTime.Application.Interfaces.Services
         Task CreateRequestAsync(string userId, CreateTarotRequestDto dto);
         Task AcceptAsync(long tarotId, string tarotReaderId);
         Task AnswerAsync(string tarotReaderId, AnswerTarotDto dto);
+        Task<IReadOnlyList<TarotReadingDto>> GetAllAsync();
+        Task<IEnumerable<TarotReadingDto>> GetByUserIdAsync(string userId);
+        Task<IEnumerable<TaroterDto>> GetByReaderIdAsync(string readerId);
     }
 }

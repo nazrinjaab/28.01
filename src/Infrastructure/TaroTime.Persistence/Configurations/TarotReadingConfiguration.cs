@@ -17,13 +17,13 @@ namespace TaroTime.Persistence.Configurations
 
             builder.HasOne(tr => tr.User)
                 .WithMany()
-                .HasForeignKey(tr => tr.UserId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .HasForeignKey(tr => tr.UserId);
+
 
             builder.HasOne(tr => tr.TarotReader)
                 .WithMany()
-                .HasForeignKey(tr => tr.TarotReaderId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .HasForeignKey(tr => tr.TarotReaderId);
+                
 
             builder.Property(tr => tr.Question)
                 .IsRequired()

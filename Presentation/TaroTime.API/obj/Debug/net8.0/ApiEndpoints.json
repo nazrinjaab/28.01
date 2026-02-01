@@ -461,6 +461,36 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TaroTime.API.Controllers.PalmsController",
+    "Method": "GetAll",
+    "RelativePath": "Palms/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.PalmsController",
+    "Method": "GetMyRequests",
+    "RelativePath": "Palms/get-my-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.PalmsController",
+    "Method": "GetMy",
+    "RelativePath": "Palms/my-palm",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TaroTime.API.Controllers.ProductsController",
     "Method": "GetAsync",
     "RelativePath": "Products",
@@ -704,6 +734,36 @@
         "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.TarotsController",
+    "Method": "GetAll",
+    "RelativePath": "Tarots/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.TarotsController",
+    "Method": "GetMyRequests",
+    "RelativePath": "Tarots/get-my-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.TarotsController",
+    "Method": "GetMy",
+    "RelativePath": "Tarots/my-palm",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

@@ -744,6 +744,42 @@
         }
       }
     },
+    "/Palms/get-all": {
+      "get": {
+        "tags": [
+          "Palms"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Palms/my-palm": {
+      "get": {
+        "tags": [
+          "Palms"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Palms/get-my-requests": {
+      "get": {
+        "tags": [
+          "Palms"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Products": {
       "get": {
         "tags": [
@@ -1119,6 +1155,42 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Tarots/get-all": {
+      "get": {
+        "tags": [
+          "Tarots"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Tarots/my-palm": {
+      "get": {
+        "tags": [
+          "Tarots"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Tarots/get-my-requests": {
+      "get": {
+        "tags": [
+          "Tarots"
+        ],
         "responses": {
           "200": {
             "description": "OK"

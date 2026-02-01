@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 using TaroTime.Application.DTOs.FeedBack;
 using TaroTime.Application.Interfaces.Services;
 
@@ -19,6 +20,10 @@ namespace TaroTime.API.Controllers
         [HttpPost("submit")]
         public async Task<IActionResult> Submit([FromForm] FeedbackDto dto)
         {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (string.IsNullOrEmpty(userId))
+                return Unauthorized();
+
             await _service.SubmitAsync(dto);
             return Ok("Rəyiniz uğurla göndərildi.");
         }

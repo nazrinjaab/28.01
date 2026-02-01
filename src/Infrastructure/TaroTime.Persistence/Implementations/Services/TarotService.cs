@@ -1,4 +1,5 @@
-﻿using TaroTime.Application.DTOs.Tarots;
+﻿using Microsoft.EntityFrameworkCore;
+using TaroTime.Application.DTOs.Tarots;
 using TaroTime.Application.Interfaces.Repositories;
 using TaroTime.Application.Interfaces.Services;
 using TaroTime.Domain.Entities;
@@ -61,6 +62,64 @@ namespace TaroTime.Persistence.Implementations.Services
 
             _repository.Update(tarot);
             await _repository.SaveChangesAsync();
+        }
+        public async Task<IReadOnlyList<TarotReadingDto>> GetAllAsync()
+        {
+            var palms = await _repository
+               .GetAll(
+                   sort: p => p.CreatedAt,
+                   includes: null
+               )
+               .ToListAsync();
+
+
+            var result = palms.Select(x => new TarotReadingDto
+                (
+                     x.Id,
+                     x.Question,
+                     x.Answer,
+                     x.UserId
+                ))
+                .ToList();
+            return result;
+
+        }
+
+        public async Task<IEnumerable<TarotReadingDto>> GetByUserIdAsync(string userId)
+        {
+            var palms = await _repository
+        .GetAll(
+            sort: p => p.CreatedAt,
+            includes: null
+        )
+        .Where(x => x.UserId == userId)
+        .ToListAsync();
+
+            var result = palms.Select(x => new TarotReadingDto(
+                x.Id,
+                x.Question,
+                x.Answer,
+                x.UserId
+            ));
+
+            return result;
+        }
+
+        public async Task<IEnumerable<TaroterDto>> GetByReaderIdAsync(string readerId)
+        {
+            var palms = await _repository
+                .GetAll(sort: p => p.CreatedAt, includes: null)
+                .Where(x => x.TarotReaderId == readerId)
+                .ToListAsync();
+
+            return palms.Select(x => new TaroterDto(
+                x.Id,
+                x.Question,
+                x.UserId,
+                x.Status,
+                x.CreatedAt,
+                x.Answer
+            ));
         }
     }
 }

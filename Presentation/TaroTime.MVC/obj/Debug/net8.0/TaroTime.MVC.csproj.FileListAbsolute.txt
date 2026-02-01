@@ -34,3 +34,40 @@ C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\Presentation\TaroT
 C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\RestSharp.dll
 C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.csproj.AssemblyReference.cache
 C:\Users\nazri\OneDrive\Desktop\Code Academy\Example\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.39EB72FA.Up2Date
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\TaroTime.MVC.staticwebassets.endpoints.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\TaroTime.MVC.staticwebassets.runtime.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\TaroTime.MVC.exe
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\TaroTime.MVC.deps.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\TaroTime.MVC.runtimeconfig.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\TaroTime.MVC.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\TaroTime.MVC.pdb
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\bin\Debug\net8.0\RestSharp.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.csproj.AssemblyReference.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.AssemblyInfoInputs.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.AssemblyInfo.cs
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.csproj.CoreCompileInputs.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.RazorAssemblyInfo.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.RazorAssemblyInfo.cs
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.sourcelink.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\scopedcss\bundle\TaroTime.MVC.styles.css
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\scopedcss\projectbundle\TaroTime.MVC.bundle.scp.css
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.39EB72FA.Up2Date
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\refint\TaroTime.MVC.dll
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.pdb
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\TaroTime.MVC.genruntimeconfig.cache
+C:\Users\nazri\OneDrive\Desktop\TaroTime\Presentation\TaroTime.MVC\obj\Debug\net8.0\ref\TaroTime.MVC.dll

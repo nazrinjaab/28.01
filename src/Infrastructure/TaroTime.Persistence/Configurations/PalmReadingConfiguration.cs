@@ -42,6 +42,10 @@ namespace TaroTime.Persistence.Configurations
                 .IsRequired()
                 .HasMaxLength(500);
 
+            builder.Property(p => p.Res)
+                .IsRequired()
+                .HasDefaultValue(string.Empty);
+
             builder.Property(pr => pr.CreatedAt)
                 .HasDefaultValueSql("GETUTCDATE()");
         }

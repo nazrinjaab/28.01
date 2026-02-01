@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using TaroTime.Application.DTOs.Coffees;
 using TaroTime.Application.Interfaces.Services;
+using TaroTime.Domain.Entities;
 
 namespace TaroTime.API.Controllers
 {
@@ -10,17 +12,21 @@ namespace TaroTime.API.Controllers
     public class CoffeesController : ControllerBase
     {
         private readonly ICoffeeService _coffeeService;
+        private readonly UserManager<AppUser> _userManager;
 
-        public CoffeesController(ICoffeeService coffeeService)
+        public CoffeesController(ICoffeeService coffeeService,
+             UserManager<AppUser> userManager)
         {
             _coffeeService = coffeeService;
+            _userManager = userManager;
         }
 
       
         [HttpPost("create")]
         public async Task<IActionResult> Create([FromForm] CreateCoffeeRequestDto dto)
         {
-            var userId = User.Identity?.Name ?? "test-user"; 
+            var userId = _userManager.GetUserId(User);
+            if (userId == null) return Unauthorized();
             await _coffeeService.CreateRequestAsync(userId, dto);
             return Ok("Coffee reading request created successfully.");
         }
@@ -29,7 +35,8 @@ namespace TaroTime.API.Controllers
         [HttpPost("accept/{coffeeId}")]
         public async Task<IActionResult> Accept(long coffeeId)
         {
-            var readerId = User.Identity?.Name ?? "falci-1";
+            var readerId = _userManager.GetUserId(User);
+            if (readerId == null) return Unauthorized();
             await _coffeeService.AcceptAsync(coffeeId, readerId);
             return Ok("Coffee reading accepted.");
         }
@@ -38,7 +45,8 @@ namespace TaroTime.API.Controllers
         [HttpPost("answer")]
         public async Task<IActionResult> Answer([FromBody] AnswerCoffeeDto dto)
         {
-            var readerId = User.Identity?.Name ?? "falci-1";
+            var readerId = _userManager.GetUserId(User);
+            if (readerId == null) return Unauthorized();
             await _coffeeService.AnswerAsync(readerId, dto);
             return Ok("Coffee reading answered.");
 
