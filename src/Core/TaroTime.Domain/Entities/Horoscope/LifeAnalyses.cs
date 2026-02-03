@@ -11,8 +11,8 @@ namespace TaroTime.Domain.Entities.Horoscope
     {
         public string UserId { get; set; }
         public AppUser User { get; set; }
-        public string ExpertId { get; set; }
-        public AppUser Expert { get; set; }
+        public string? ExpertId { get; set; }
+        public AppUser? Expert { get; set; }
         public ZodiacSign Zodiac { get; set; }
         public string ZodiacId { get; set; }
         public string Description { get; set; }

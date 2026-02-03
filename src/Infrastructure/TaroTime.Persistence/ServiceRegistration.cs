@@ -6,11 +6,15 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 using TaroTime.Application.Interfaces.Repositories;
+using TaroTime.Application.Interfaces.Repositories.Horoscope;
 using TaroTime.Application.Interfaces.Services;
+using TaroTime.Application.Interfaces.Services.Horoscope;
 using TaroTime.Domain.Entities;
 using TaroTime.Persistence.Contexts;
 using TaroTime.Persistence.Implementations.Repositories;
+using TaroTime.Persistence.Implementations.Repositories.Horoscope;
 using TaroTime.Persistence.Implementations.Services;
+using TaroTime.Persistence.Implementations.Services.Horoscope;
 
 namespace TaroTime.Persistence
 {
@@ -47,6 +51,7 @@ namespace TaroTime.Persistence
             services.AddScoped<IPalmRepository, PalmRepository>();
             services.AddScoped<IAppointmentRepository, AppointmentRepository>();
             services.AddScoped<IFeedbackRepository, FeedBackRepository>();
+            services.AddScoped<ICompatibilityZodiacRepository, CompatibilityZodiacRepository>();
 
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IProductService, ProductService>();
@@ -59,6 +64,7 @@ namespace TaroTime.Persistence
             services.AddScoped<IPalmService, PalmService>();
             services.AddScoped<IAppointmentService, AppointmentService>();
             services.AddScoped<IFeedbackService, FeedbackService>();
+            services.AddScoped<ICompatibilityZodiacService, CompatibilityZodiacService>();
             services.AddScoped<AppDbContextInitializer>();
 
 

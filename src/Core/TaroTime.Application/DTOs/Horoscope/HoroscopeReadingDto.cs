@@ -8,11 +8,11 @@ using TaroTime.Domain.Enums;
 
 namespace TaroTime.Application.DTOs.Horoscope
 {
-    public record TakeCompatibilityDto(
-    decimal CompatibilityPercent, 
-    string Description,        
-    string ExpertId,             
-    string ExpertName             
-    );
+    public record HoroscopeReadingDto(
+        long Id,
+        string UserId,
+        string? ExpertId,
+        string Description
+        );
     
 }

@@ -652,6 +652,141 @@
         }
       }
     },
+    "/Horoscopes/create": {
+      "post": {
+        "tags": [
+          "Horoscopes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCompatibilityDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCompatibilityDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCompatibilityDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Horoscopes/accept/{compatibilityId}": {
+      "post": {
+        "tags": [
+          "Horoscopes"
+        ],
+        "parameters": [
+          {
+            "name": "compatibilityId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Horoscopes/answer": {
+      "post": {
+        "tags": [
+          "Horoscopes"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "CompatibilityId": {
+                    "type": "integer",
+                    "format": "int64"
+                  },
+                  "CompatibilityPercent": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Description": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "CompatibilityId": {
+                  "style": "form"
+                },
+                "CompatibilityPercent": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Horoscopes/get-all": {
+      "get": {
+        "tags": [
+          "Horoscopes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Horoscopes/my-palm": {
+      "get": {
+        "tags": [
+          "Horoscopes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Horoscopes/get-my-requests": {
+      "get": {
+        "tags": [
+          "Horoscopes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Palms/create": {
       "post": {
         "tags": [
@@ -1260,6 +1395,26 @@
         },
         "additionalProperties": false
       },
+      "CreateCompatibilityDto": {
+        "type": "object",
+        "properties": {
+          "userZodiac": {
+            "$ref": "#/components/schemas/ZodiacSign"
+          },
+          "partnerZodiac": {
+            "$ref": "#/components/schemas/ZodiacSign"
+          },
+          "userBirthDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "partnerBirthDate": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
       "FeedbackType": {
         "enum": [
           1,
@@ -1284,6 +1439,24 @@
           4,
           5,
           6
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "ZodiacSign": {
+        "enum": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
         ],
         "type": "integer",
         "format": "int32"

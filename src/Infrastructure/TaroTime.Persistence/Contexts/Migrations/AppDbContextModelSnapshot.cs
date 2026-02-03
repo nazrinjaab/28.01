@@ -413,6 +413,79 @@ namespace TaroTime.Persistence.Contexts.Migrations
                     b.ToTable("Colors");
                 });
 
+            modelBuilder.Entity("TaroTime.Domain.Entities.CompatibilityZodiac", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<DateTime?>("AcceptedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("CompatibilityPercent")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("CompletedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("CreatedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ExpertId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("PartnerBirthDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("PartnerZodiac")
+                        .HasColumnType("int");
+
+                    b.Property<string>("PartnerZodiacId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("UpdatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("UserBirthDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("UserZodiac")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UserZodiacId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ExpertId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("CompatibilityZodiacs");
+                });
+
             modelBuilder.Entity("TaroTime.Domain.Entities.Feedback", b =>
                 {
                     b.Property<long>("Id")
@@ -753,6 +826,24 @@ namespace TaroTime.Persistence.Contexts.Migrations
                         .HasForeignKey("ExpertId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.HasOne("TaroTime.Domain.Entities.AppUser", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Expert");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("TaroTime.Domain.Entities.CompatibilityZodiac", b =>
+                {
+                    b.HasOne("TaroTime.Domain.Entities.AppUser", "Expert")
+                        .WithMany()
+                        .HasForeignKey("ExpertId")
+                        .OnDelete(DeleteBehavior.Cascade);
 
                     b.HasOne("TaroTime.Domain.Entities.AppUser", "User")
                         .WithMany()

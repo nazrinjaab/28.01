@@ -50,7 +50,17 @@ modelBuilder.Entity<Appointment>()
     .HasForeignKey(a => a.ExpertId)
     .OnDelete(DeleteBehavior.Cascade); // ✅ yalnız birində cascade
 
+            modelBuilder.Entity<CompatibilityZodiac>()
+    .HasOne(c => c.User)
+    .WithMany()
+    .HasForeignKey(c => c.UserId)
+    .OnDelete(DeleteBehavior.Restrict);
 
+            modelBuilder.Entity<CompatibilityZodiac>()
+                .HasOne(c => c.Expert)
+                .WithMany()
+                .HasForeignKey(c => c.ExpertId)
+                .OnDelete(DeleteBehavior.Cascade);
 
             base.OnModelCreating(modelBuilder);
         }
@@ -105,7 +115,7 @@ modelBuilder.Entity<Appointment>()
         public DbSet<PalmReading> PalmReadings { get; set; }
         public DbSet<Appointment> Appointments { get; set; }
         public DbSet<Feedback> Feedbacks { get; set; }
-        
+        public DbSet<CompatibilityZodiac> CompatibilityZodiacs { get; set; }
 
 
     }

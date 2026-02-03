@@ -408,6 +408,94 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TaroTime.API.Controllers.HoroscopesController",
+    "Method": "Accept",
+    "RelativePath": "Horoscopes/accept/{compatibilityId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "compatibilityId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.HoroscopesController",
+    "Method": "Answer",
+    "RelativePath": "Horoscopes/answer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CompatibilityId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "CompatibilityPercent",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.HoroscopesController",
+    "Method": "CreateCompatibility",
+    "RelativePath": "Horoscopes/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TaroTime.Application.DTOs.Horoscope.CreateCompatibilityDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.HoroscopesController",
+    "Method": "GetAll",
+    "RelativePath": "Horoscopes/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.HoroscopesController",
+    "Method": "GetMyRequests",
+    "RelativePath": "Horoscopes/get-my-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.HoroscopesController",
+    "Method": "GetMy",
+    "RelativePath": "Horoscopes/my-palm",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TaroTime.API.Controllers.PalmsController",
     "Method": "Accept",
     "RelativePath": "Palms/accept/{palmId}",

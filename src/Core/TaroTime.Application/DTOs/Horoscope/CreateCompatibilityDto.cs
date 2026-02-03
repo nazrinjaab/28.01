@@ -9,6 +9,7 @@ using TaroTime.Domain.Enums;
 namespace TaroTime.Application.DTOs.Horoscope
 {
     public record CreateCompatibilityDto(
+    //long Id,
     ZodiacSign UserZodiac,
     ZodiacSign PartnerZodiac,
     DateTime UserBirthDate,       
