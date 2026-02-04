@@ -52,5 +52,14 @@ namespace TaroTime.API.Controllers
            await _service.ResetPasswordAsync(userdto);
             return Ok("Password reset successfully");
         }
+        [HttpPost("logout")]
+        public async Task<IActionResult> Logout()
+        {
+            if (!User.Identity?.IsAuthenticated ?? true)
+                return Unauthorized();
+            await _service.LogoutAsync();
+            return Ok("You have been logged out successfully.");
+        }
+
     }
 }

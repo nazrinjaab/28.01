@@ -8,6 +8,7 @@ using TaroTime.Domain.Enums;
 namespace TaroTime.Application.DTOs.FeedBack
 {
     public record FeedbackDto(
+        long Id,
         string? UserName,
         string? Email,
         FeedbackType Type,

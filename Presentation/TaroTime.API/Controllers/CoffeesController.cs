@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 using TaroTime.Application.DTOs.Coffees;
 using TaroTime.Application.Interfaces.Services;
 using TaroTime.Domain.Entities;
@@ -50,6 +51,36 @@ namespace TaroTime.API.Controllers
             await _coffeeService.AnswerAsync(readerId, dto);
             return Ok("Coffee reading answered.");
 
+        }
+        [HttpGet("get-all")]
+        public async Task<IActionResult> GetAll()
+        {
+            if (!User.Identity?.IsAuthenticated ?? true)
+                return Unauthorized();
+
+            var result = await _coffeeService.GetAllAsync();
+            return Ok(result);
+        }
+
+
+        [HttpGet("my-palm")]
+        public async Task<IActionResult> GetMy()
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (string.IsNullOrEmpty(userId))
+                return Unauthorized();
+            var result = await _coffeeService.GetByUserIdAsync(userId);
+            return Ok(result);
+        }
+
+        [HttpGet("get-my-requests")]
+        public async Task<IActionResult> GetMyRequests()
+        {
+            var readerId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (string.IsNullOrEmpty(readerId))
+                return Unauthorized();
+            var result = await _coffeeService.GetByReaderIdAsync(readerId);
+            return Ok(result);
         }
     }
 }

@@ -12,5 +12,8 @@ namespace TaroTime.Application.Interfaces.Services
         Task CreateRequestAsync(string userId, CreateCoffeeRequestDto dto);
         Task AcceptAsync(long coffeeId, string readerId);
         Task AnswerAsync(string readerId, AnswerCoffeeDto dto);
+        Task<IReadOnlyList<CoffeeReadingDto>> GetAllAsync();
+        Task<IEnumerable<CoffeeReadingDto>> GetByUserIdAsync(string userId);
+        Task<IEnumerable<CoffeerDto>> GetByReaderIdAsync(string readerId);
     }
 }

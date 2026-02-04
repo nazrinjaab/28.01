@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaroTime.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ae2a84210da8c17527c27d2ea8e8fa3fe8fe873")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5771ce14d92eb5424f2679f22fd832b0f04ba3cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaroTime.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaroTime.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

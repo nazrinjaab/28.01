@@ -79,6 +79,16 @@
   },
   {
     "ContainingType": "TaroTime.API.Controllers.AccountsController",
+    "Method": "Logout",
+    "RelativePath": "Accounts/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.AccountsController",
     "Method": "ResetPassword",
     "RelativePath": "Accounts/reset-password",
     "HttpMethod": "POST",
@@ -104,6 +114,22 @@
         "Name": "ConfirmPassword",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.AppointmentsController",
+    "Method": "Accept",
+    "RelativePath": "Appointments/accept/{appointmentId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appointmentId",
+        "Type": "System.Int64",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -346,6 +372,36 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TaroTime.API.Controllers.CoffeesController",
+    "Method": "GetAll",
+    "RelativePath": "Coffees/get-all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.CoffeesController",
+    "Method": "GetMyRequests",
+    "RelativePath": "Coffees/get-my-requests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaroTime.API.Controllers.CoffeesController",
+    "Method": "GetMy",
+    "RelativePath": "Coffees/my-palm",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TaroTime.API.Controllers.FeedBacksController",
     "Method": "GetById",
     "RelativePath": "FeedBacks/{id}",
@@ -379,6 +435,11 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
       {
         "Name": "UserName",
         "Type": "System.String",

@@ -12,6 +12,7 @@ namespace TaroTime.Application.DTOs.Palm
        string Question,
        string? Answer,
        string UserId,
+        string UserName,
        string ReaderId,
        PalmStatus Status
         );

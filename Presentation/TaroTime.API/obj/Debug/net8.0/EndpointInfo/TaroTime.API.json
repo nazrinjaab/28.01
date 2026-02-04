@@ -183,6 +183,18 @@
         }
       }
     },
+    "/Accounts/logout": {
+      "post": {
+        "tags": [
+          "Accounts"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Appointments/all": {
       "get": {
         "tags": [
@@ -199,6 +211,29 @@
       "get": {
         "tags": [
           "Appointments"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Appointments/accept/{appointmentId}": {
+      "post": {
+        "tags": [
+          "Appointments"
+        ],
+        "parameters": [
+          {
+            "name": "appointmentId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -561,6 +596,42 @@
         }
       }
     },
+    "/Coffees/get-all": {
+      "get": {
+        "tags": [
+          "Coffees"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Coffees/my-palm": {
+      "get": {
+        "tags": [
+          "Coffees"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Coffees/get-my-requests": {
+      "get": {
+        "tags": [
+          "Coffees"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/FeedBacks/submit": {
       "post": {
         "tags": [
@@ -572,6 +643,10 @@
               "schema": {
                 "type": "object",
                 "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int64"
+                  },
                   "UserName": {
                     "type": "string"
                   },
@@ -591,6 +666,9 @@
                 }
               },
               "encoding": {
+                "Id": {
+                  "style": "form"
+                },
                 "UserName": {
                   "style": "form"
                 },

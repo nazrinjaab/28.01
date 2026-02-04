@@ -590,6 +590,9 @@ namespace TaroTime.Persistence.Contexts.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("UserName")
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("PalmReadings");

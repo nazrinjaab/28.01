@@ -15,5 +15,6 @@ namespace TaroTime.Application.Interfaces.Services
         Task<List<GetAppointmentItemDto>> GetPendingAsync();
         Task<List<GetAppointmentItemDto>> GetMyAppointmentsAsync();
         Task<List<ExpertScheduleDto>> GetExpertWeeklyScheduleAsync(string expertId);
+        Task AcceptAsync(long appointmentId, string expertId);
     }
 }

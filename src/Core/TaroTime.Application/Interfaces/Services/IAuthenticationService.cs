@@ -15,5 +15,6 @@ namespace TaroTime.Application.Interfaces.Services
         Task<TokenResponseDto> LoginAsync(LoginDto userDto);
         Task<string> ForgotPasswordAsync(ForgotPasswordDto userdto);
         Task ResetPasswordAsync(ResetPasswordDto userdto);
+        Task LogoutAsync();
     }
 }

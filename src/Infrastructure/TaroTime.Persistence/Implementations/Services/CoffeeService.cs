@@ -1,10 +1,12 @@
 ﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TaroTime.Application.DTOs.Coffees;
+using TaroTime.Application.DTOs.Palm;
 using TaroTime.Application.Interfaces.Repositories;
 using TaroTime.Application.Interfaces.Services;
 using TaroTime.Domain.Entities;
@@ -83,6 +85,73 @@ namespace TaroTime.Persistence.Implementations.Services
 
             _repository.Update(coffee);
             await _repository.SaveChangesAsync();
+        }
+
+        public async Task<IReadOnlyList<CoffeeReadingDto>> GetAllAsync()
+        {
+            var coffees = await _repository
+               .GetAll(
+                   sort: p => p.CreatedAt,
+                   includes: null
+               )
+               .ToListAsync();
+
+
+            var result = coffees.Select(x => new CoffeeReadingDto
+                (
+                x.Id,
+                x.Question,
+                x.Answer,
+                x.UserId,
+                x.CoffeeReaderId,
+                x.Status
+                ))
+                .ToList();
+            return result;
+
+        }
+       
+
+        public async Task<IEnumerable<CoffeeReadingDto>> GetByUserIdAsync(string userId)
+        {
+            var coffees = await _repository
+        .GetAll(
+            sort: p => p.CreatedAt,
+            includes: null
+        )
+        .Where(x => x.UserId == userId)
+        .ToListAsync();
+
+            var result = coffees.Select(x => new CoffeeReadingDto(
+                  x.Id,
+                x.Question,
+                x.Answer,
+                x.UserId,
+                x.CoffeeReaderId,
+                x.Status
+            ));
+
+            return result;
+        }
+
+        public async Task<IEnumerable<CoffeerDto>> GetByReaderIdAsync(string readerId)
+        {
+            var coffees = await _repository
+                .GetAll(sort: p => p.CreatedAt, includes: null)
+                .Where(x => x.CoffeeReaderId == readerId)
+                .ToListAsync();
+
+            return coffees.Select(x => new CoffeerDto(
+                x.Id,
+                x.Question,
+                x.CupImagePath,
+               
+                x.UserId,
+              
+                x.Status,
+                x.CreatedAt,
+                x.Answer
+            ));
         }
     }
 }

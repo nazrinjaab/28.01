@@ -63,7 +63,7 @@ namespace TaroTime.Persistence.Implementations.Services
 
            
             var result = feedbacks.Select(f => new FeedbackDto(
-
+                f.Id,
                 f.UserName,
                 f.Email,
                 f.Type, 

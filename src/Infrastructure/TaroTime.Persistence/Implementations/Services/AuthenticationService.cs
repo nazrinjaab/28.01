@@ -20,16 +20,19 @@ namespace TaroTime.Persistence.Implementations.Services
         private readonly IMapper _mapper;
         private readonly IConfiguration _configuration;
         private readonly ITokenService _tokenService;
+        private readonly SignInManager<AppUser> _signInManager;
 
         public AuthenticationService(UserManager<AppUser> userManager, 
             IMapper mapper,
             IConfiguration configuration,
-            ITokenService tokenService)
+            ITokenService tokenService,
+            SignInManager<AppUser> signInManager)
         {
             _userManager = userManager;
             _mapper = mapper;
             _configuration = configuration;
             _tokenService = tokenService;
+            _signInManager = signInManager;
         }
         public async Task RegisterAsync(RegisterDto userDto)
         {
@@ -80,7 +83,7 @@ namespace TaroTime.Persistence.Implementations.Services
 
         public async Task ResetPasswordAsync(ResetPasswordDto userdto)
         {
-            
+
 
             AppUser user = await _userManager.FindByEmailAsync(userdto.UsernameOrEmail);
             if (user == null)
@@ -106,5 +109,12 @@ namespace TaroTime.Persistence.Implementations.Services
                 throw new Exception(sb.ToString());
             }
         }
+
+        public async Task LogoutAsync()
+        {
+            await _signInManager.SignOutAsync();
+        }
+
     }
 }
+

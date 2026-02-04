@@ -13,6 +13,7 @@ namespace TaroTime.Application.DTOs.Palm
        string HandImagePath,
        string Result,
        string UserId,
+       string UserName,
        PalmStatus Status,
        DateTime CreatedAt,
        string? Answer

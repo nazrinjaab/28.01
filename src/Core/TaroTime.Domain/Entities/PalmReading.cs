@@ -11,6 +11,7 @@ namespace TaroTime.Domain.Entities
     public class PalmReading:BaseAccountableEntity
     {
         public string UserId { get; set; }         
+        public string? UserName { get; set; }
         public string Question { get; set; }        
         public string? Answer { get; set; }        
         public string? PalmReaderId { get; set; }   

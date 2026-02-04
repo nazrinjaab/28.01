@@ -9,6 +9,7 @@ using TaroTime.Application.Interfaces.Repositories;
 using TaroTime.Application.Interfaces.Services;
 using TaroTime.Domain.Entities;
 using TaroTime.Domain.Enums;
+using TaroTime.Persistence.Contexts.Migrations;
 
 namespace TaroTime.Persistence.Implementations.Services
 {
@@ -60,6 +61,25 @@ namespace TaroTime.Persistence.Implementations.Services
             _repository.Update(appointment);
             await _repository.SaveChangesAsync();
         }
+
+
+        public async Task AcceptAsync(long appointmentId, string expertId)
+        {
+            var appointment = await _repository.GetByIdAsync(appointmentId)
+                ?? throw new Exception("appointment not found");
+
+            if (appointment.Status != AppointmentStatus.Pending)
+                throw new Exception("Already accepted or completed");
+
+            appointment.ExpertId = expertId;
+            appointment.Status = AppointmentStatus.Completed;
+           
+
+            _repository.Update(appointment);
+            await _repository.SaveChangesAsync();
+        }
+
+      
 
         public async Task<List<GetAppointmentItemDto>> GetAllAsync()
         {

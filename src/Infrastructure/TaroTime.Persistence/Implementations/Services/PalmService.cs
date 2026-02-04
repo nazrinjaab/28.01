@@ -125,6 +125,7 @@ namespace TaroTime.Persistence.Implementations.Services
                 x.Question,
                 x.Answer,
                 x.UserId,
+                x.UserName,
                 x.PalmReaderId,
                 x.Status
                 ))
@@ -148,6 +149,7 @@ namespace TaroTime.Persistence.Implementations.Services
                 x.Question,
                 x.Answer,
                 x.UserId = string.Empty,
+                x.UserName,
                 x.PalmReaderId,
                 x.Status
             ));
@@ -168,6 +170,7 @@ namespace TaroTime.Persistence.Implementations.Services
                 x.HandImagePath,
                 x.Res,
                 x.UserId,
+                x.UserName,
                 x.Status,
                 x.CreatedAt,
                 x.Answer
