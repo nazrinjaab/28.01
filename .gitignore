@@ -1,0 +1,62 @@
+# =========================
+# Build nəticələri
+# =========================
+bin/
+obj/
+out/
+
+# =========================
+# DLL, EXE və s.
+# =========================
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Rider / ReSharper
+# =========================
+.idea/
+*.DotSettings.user
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+packages/
+.nuget/
+
+# =========================
+# OS zibilləri
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Test nəticələri
+# =========================
+TestResults/
+coverage/
+*.coverage
+
+# =========================
+# Publish / Release
+# =========================
+publish/
+artifacts/
+
+# =========================
+# Environment faylları
+# =========================
+.env
+.env.*
